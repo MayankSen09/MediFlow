@@ -1,4 +1,4 @@
-# 🏥 Hospital Management System
+# 🏥 MediFLow-Hospital Management System
 
 A comprehensive web-based Hospital Management System built with React, TypeScript, and Material-UI.
 
