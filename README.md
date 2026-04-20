@@ -1,6 +1,6 @@
 # 🏥 MediFLow-Hospital Management System
 
-A comprehensive web-based Hospital Management System built with React, TypeScript, and Material-UI.
+MediFlow centralizes all hospital workflows into a single platform including patient management, appointments, billing, pharmacy, laboratory, and staff operations with a focus on security, performance, and usability.
 
 ## ✨ Features
 
